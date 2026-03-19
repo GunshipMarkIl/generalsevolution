@@ -20,6 +20,8 @@ The goal of Generals Evolution is to re-imagine C&C Generals on Red Alert 3 engi
 Actual link: https://www.moddb.com/mods/command-and-conquer-generals-evolution/downloads/generals-evolution-beta-033
 
 Where you can support project:
-patreon.com/GunshipMarkIl
-ko-fi.com/gunshipmarkil
-buymeacoffee.com/gunshipmarkil
+https://patreon.com/GunshipMarkIl
+
+https://ko-fi.com/gunshipmarkil
+
+https://buymeacoffee.com/gunshipmarkil
